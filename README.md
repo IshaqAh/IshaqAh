@@ -5,6 +5,6 @@
 - 📫 How to reach me through github
 
 <!---
-IshaqAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ishaq92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
